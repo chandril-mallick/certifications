@@ -60,16 +60,6 @@ Computer Science student with strong foundations in **Data Structures & Algorith
 * Improved coding speed, debugging, and optimization skills
 * Strengthened algorithmic thinking under pressure
 
----
-
-## 🛠 Core Technical Strengths
-
-* Data Structures & Algorithms
-* Java Programming
-* AI Tool Integration (MCP)
-* Competitive Programming
-* Hackathon Development
-* Analytical & Logical Thinking
 
 ---
 
