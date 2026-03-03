@@ -1,42 +1,78 @@
-#  Certifications & Achievements
 
-A collection of professional certifications, competition achievements, and learning milestones.
 
-## 📜 Certifications
+#  Certifications & Technical Achievements
 
-### India's Top 1000 Innovators
-Certificate recognizing participation and excellence in India's Top 1000 Innovators program.
-
-### Sigma - Data Structures & Algorithms (Java)
-Professional certification in DSA with Java, demonstrating core algorithmic problem-solving skills and data structure implementation.
-
-### CONVOLVE 4.0
-Technical event certification showcasing advanced problem-solving and technical aptitude.
-
-##  Competition & Event Achievements
-
-### Code Clash
-Certificate of Participation in Code Clash - a competitive programming event testing coding skills under time constraints.
-
-### Hack4Delhi
-Certificate of Participation in Hack4Delhi - a hackathon event demonstrating innovation and development capabilities.
-
-## 📁 Contents
-
-- **CONVOLVE 4.0.pdf** - Certification from CONVOLVE 4.0 event
-- **sigma(dsa-java).pdf** - DSA with Java certification
-- **code clash.pdf** - Code Clash competition certificate
-- **hack4delhi.pdf** - Hack4Delhi hackathon certificate
-- **certificate.png** - Achievement certificate (image)
-
-##  Skills & Knowledge Areas
-
-- Data Structures & Algorithms
-- Java Programming
-- Competitive Programming
-- Problem-Solving & Logic
-- Innovation & Hackathon Development
+Computer Science student with strong foundations in **Data Structures & Algorithms, AI System Architecture, and Competitive Programming**, validated through industry-recognized certifications and national-level technical events.
 
 ---
 
-*Last Updated: February 2026*
+##  Professional Certifications
+
+### Introduction to Model Context Protocol – Anthropic
+
+**Issued:** March 2026
+
+* Learned AI tool creation using Model Context Protocol (MCP)
+* Built understanding of templated resources and structured model integrations
+* Exposure to scalable AI system architecture concepts
+* Practical knowledge of AI-driven application workflows
+
+**Certificate No:** xmyhq5mpx9zn
+**Verification:** [https://verify.skilljar.com/c/xmyhq5mpx9zn](https://verify.skilljar.com/c/xmyhq5mpx9zn)
+
+---
+
+### Sigma – Data Structures & Algorithms (Java)
+
+* Strong understanding of Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs
+* Hands-on implementation of core algorithms
+* Time & Space Complexity analysis (O(n), O(log n), O(n²))
+* Structured problem-solving approach for technical interviews
+
+---
+
+### India’s Top 1000 Innovators
+
+* Recognized for innovation-driven technical thinking
+* Demonstrated ability to convert ideas into structured solutions
+* Exposure to startup and product-oriented problem solving
+
+---
+
+### CONVOLVE 4.0
+
+* Participated in a competitive technical evaluation environment
+* Demonstrated logical reasoning and analytical problem-solving
+
+---
+
+##  Competitive Programming & Hackathons
+
+### Hack4Delhi
+
+* Participated in a national-level hackathon
+* Developed rapid prototypes under time constraints
+* Worked on real-world problem statements
+
+### Code Clash
+
+* Competitive programming event participation
+* Improved coding speed, debugging, and optimization skills
+* Strengthened algorithmic thinking under pressure
+
+---
+
+## 🛠 Core Technical Strengths
+
+* Data Structures & Algorithms
+* Java Programming
+* AI Tool Integration (MCP)
+* Competitive Programming
+* Hackathon Development
+* Analytical & Logical Thinking
+
+---
+
+ **Last Updated:** March 2026
+
+
