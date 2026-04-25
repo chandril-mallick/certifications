@@ -44,6 +44,17 @@ Computer Science student with strong foundations in **Data Structures & Algorith
 * Participated in a competitive technical evaluation environment
 * Demonstrated logical reasoning and analytical problem-solving
 
+### Fish Tank – COMET’26 Startup Pitching Challenge
+
+ * Participated in a startup pitching challenge in collaboration with IIT Roorkee
+ * Gained exposure to real-world startup validation and pitching
+ * Strengthened business + technical presentation skills
+
+### Tata Imagination Challenge 2025 (Tata Quiz)
+
+ * Participated in Tata Group’s national-level quiz competition
+ * Improved analytical thinking, business awareness, and decision-making skills
+
 ---
 
 ##  Competitive Programming & Hackathons
